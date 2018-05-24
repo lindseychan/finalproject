@@ -1,7 +1,7 @@
 #header{
   width: 100%;
   min-height: 30px;
-  color: rgb(60, 10, 60);
+
   text-align:center;
   border-radius: 2;
   border: none;
@@ -11,9 +11,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.section{
+    width: 100%;
+}
+
 #food{
-  width: 70%;
-  border-radius: 20px;
+  width: 100%;
   border: none;
   margin: 50px auto;
   padding: 25px 25px;
