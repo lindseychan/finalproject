@@ -1,16 +1,14 @@
 #header{
   width: 100%;
   min-height: 30px;
-  background-color: #BEC1C4;
-  color: rgb(210, 210, 210);
+  color: rgb(60, 10, 60);
   text-align:center;
-  border-radius: 0;
+  border-radius: 2;
   border: none;
 }
 
 body {
   font-family: Arial, sans-serif;
-  background-color: rgb(220, 120, 180);
 }
 
 #food{
