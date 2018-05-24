@@ -15,6 +15,19 @@ body {
     width: 100%;
 }
 
+.parallax {
+    background-image: url("hong kong skyline.jpg");
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #food{
   width: 100%;
   background-color: #F5E1E8;
