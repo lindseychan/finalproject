@@ -14,7 +14,7 @@ body {
 #food{
   width: 70%;
   border-radius: 20px;
-  border: 1px solid rgb(0, 0,0);
+  border: none;
   margin: 50px auto;
   padding: 25px 25px;
 }
