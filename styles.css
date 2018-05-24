@@ -19,7 +19,8 @@ body {
     background-image: url("hong kong skyline.jpg");
 
     /* Set a specific height */
-    height: 500px;
+    height: 400px;
+    width: 100%;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
